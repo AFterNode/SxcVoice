@@ -1,22 +1,22 @@
 {
     "assets": [],
-    "encryptLevel": 0,
+    "encryptLevel": 3,
     "useFeatures": [],
     "launchConfig": {
       "displaySplash": true,
       "hideLogs": false,
-      "splashText": "Powered by Auto.js Pro",
-      "stableMode": false
+      "splashText": "Made by H3xadecimal",
+      "stableMode": true
     },
     "main": "main.js",
-    "name": "My Project",
+    "name": "川语包",
     "optimization": {
-      "removeOpenCv": false,
-      "unusedResources": false
+      "removeOpenCv": true,
+      "unusedResources": true
     },
-    "packageName": "org.example.my_project",
+    "packageName": "cn.afternode.autojs.sxcvoice",
     "scripts": {},
     "versionCode": 1,
-    "versionName": "1.0.0",
+    "versionName": "0.1.0",
     "ignore": ["build", "node_modules"]
   }

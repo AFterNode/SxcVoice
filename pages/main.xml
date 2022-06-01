@@ -1,3 +1,23 @@
-<vertical>
-    
+<vertical w="*">
+    <horizontal gravity="center">
+        <text gravity="center" textSize="30sp" textColor="#000000">川语包</text>
+    </horizontal>
+    <vertical gravity="center">
+        <text gravity="center" textSize="20sp" textColor="#000000">原生语音</text>
+        <horizontal w="*">
+            <button id="VOX_SXC_SZO" text="啥子哦" />
+        </horizontal>
+    </vertical>
+    <vertical gravity="*">
+        <text gravity="center" textSize="15sp" textColor="#000000">其它</text>
+        <horizontal w="*">
+            <button id="STOP_ALL" text="停止所有" />
+        </horizontal>
+        <horizontal>
+            <text textColor="red" >警告：禁止任何目的的搬运，程序由AFterNode H3xadecimal制作，仅在7723游戏盒（用户名AFterNd）发布，语音为 孙笑川(带带大师兄) 所有</text>
+        </horizontal>
+        <horizontal>
+            <text textColor="red">本程序已使用GNU GPLv3开源</text>
+        </horizontal>
+    </vertical>
 </vertical>
